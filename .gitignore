@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+.vscode/
+datasets/
+__pycache__/
+**.xlsx
+**.xls
+**.csv
+**.zip
+**.tar
+**.pk
+datasets/
+*notebooks*
+.env*.sh
+!.env_sample.sh

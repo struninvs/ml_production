@@ -1,0 +1,8 @@
+name: dls_workshop_frontend            # default is root
+channels:
+- pytorch
+- conda-forge
+dependencies:         # everything under this, installed by conda
+- pip
+- streamlit==1.34.0
+- pydantic==2.5.1

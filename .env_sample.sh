@@ -1,0 +1,6 @@
+CONTAINER_NAME=dls_trends_indicator
+CONTAINER_TAG=latest
+BACKEND_HOST=http://dls_trends_indicator_backend
+BACKEND_PORT=8082
+FRONTEND_PORT=8083
+NETWORK_NAME=dls_trends_indicator_network
